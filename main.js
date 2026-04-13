@@ -1,5 +1,5 @@
 /* js/main.js — Care Homoeo Clinic */
-
+//git
 (function () {
   'use strict';
 
